@@ -11,5 +11,8 @@ The trait that I prize the most is discipline. While some think that discipline 
 As the end of my undergraduate degree draws closer, I will bring the skills and values I previously discussed into my future endeavors as I explore the future of robotics and reinforcement learning. Through rapid learning, planning, and discipline, I aim to bring greater success in the workplace, whether that be in academia or industry.
 
 ### Resume
-
+![my resume](./resume.jpg)
 ### Projects
+Financial Document Summary System
+Stair.ai
+Stock Price Prediction
