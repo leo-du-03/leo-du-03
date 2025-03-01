@@ -19,7 +19,15 @@ As the end of my undergraduate degree draws closer, I will bring the skills and 
 ### Projects
 #### Financial Document Summary System
 Developed over the course of three weeks, this system combines the EDGAR database with novel LLM technology to answer questions about any publically listed company by analyzing publically available financial documents.
+
+Click [here](https://github.com/leo-du-03/financial-document/) to see all the code!
+
 #### Stair.ai
 This project is an exploration into sentiment analysis. It uses LSTMs to perform sentiment analysis on news to determine overall public sentiment on financial topics.
+
+Click [here](https://github.com/leo-du-03/stair/) to see all the code!
+
 #### MicrOCaml Interpreter
 An interpreter (lexer, parser, evaluator) for a trimmed-down variant of OCaml built using OCaml.
+
+Click [here](https://github.com/leo-du-03/MicrOCaml/) to see all the code!
