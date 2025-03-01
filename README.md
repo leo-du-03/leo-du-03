@@ -10,9 +10,16 @@ The trait that I prize the most is discipline. While some think that discipline 
 
 As the end of my undergraduate degree draws closer, I will bring the skills and values I previously discussed into my future endeavors as I explore the future of robotics and reinforcement learning. Through rapid learning, planning, and discipline, I aim to bring greater success in the workplace, whether that be in academia or industry.
 
+---
+
 ### Resume
 ![my resume](./resume.jpg)
+
+---
 ### Projects
-Financial Document Summary System
-Stair.ai
-Stock Price Prediction
+#### Financial Document Summary System
+Developed over the course of three weeks, this system combines the EDGAR database with novel LLM technology to answer questions about any publically listed company by analyzing publically available financial documents.
+#### Stair.ai
+This project is an exploration into sentiment analysis. It uses LSTMs to perform sentiment analysis on news to determine overall public sentiment on financial topics.
+#### MicrOCaml Interpreter
+An interpreter (lexer, parser, evaluator) for a trimmed-down variant of OCaml built using OCaml.
