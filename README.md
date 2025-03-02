@@ -28,6 +28,6 @@ This project is an exploration into sentiment analysis. It uses LSTMs to perform
 Click [here](https://github.com/leo-du-03/stair/) to see all the code!
 
 #### MicrOCaml Interpreter
-An interpreter (lexer, parser, evaluator) for a trimmed-down variant of OCaml built using OCaml.
+An exercise in planning, this interpreter (lexer, parser, evaluator) for a trimmed-down variant of OCaml built using OCaml over the course two weeks.
 
 Click [here](https://github.com/leo-du-03/MicrOCaml/) to see all the code!
