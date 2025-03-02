@@ -20,7 +20,7 @@ As the end of my undergraduate degree draws closer, I will bring the skills and 
 
 ---
 ### Projects
-#### Financial Document Summary System
+#### Financial Question Answering System
 Developed over the course of three weeks, this system combines the EDGAR database with novel LLM technology to answer questions about any publically listed company by analyzing publically available financial documents.
 
 Click [here](https://github.com/leo-du-03/financial-document/) to see all the code!
