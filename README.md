@@ -1,3 +1,6 @@
+<img src="drones.jpg" alt="drawing" width="1000"/>
+
+
 ## Hi there 👋
 ### Who am I?
 I have always loved robots. Drones, robot arms, robot dogs, they all captured my imagination. As I entered high school, I grew to love watching people teach robots to walk, solve puzzles, and play games using reinforcement learning, which inspired my decision to pursue computer science in college. Throughout my time as a computer science student, I have established three skills and values that influence everything I do: rapid learning, planning, and discipline.
@@ -28,6 +31,6 @@ This project is an exploration into sentiment analysis. It uses LSTMs to perform
 Click [here](https://github.com/leo-du-03/stair/) to see all the code!
 
 #### MicrOCaml Interpreter
-An exercise in planning, this interpreter (lexer, parser, evaluator) for a trimmed-down variant of OCaml built using OCaml over the course two weeks.
+An exercise in planning and project design, this interpreter (lexer, parser, evaluator) for a trimmed-down variant of OCaml built using OCaml over the course two weeks while following strict deadlines.
 
 Click [here](https://github.com/leo-du-03/MicrOCaml/) to see all the code!
